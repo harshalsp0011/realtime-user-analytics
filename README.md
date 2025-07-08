@@ -32,11 +32,6 @@ realtime-user-analytics/
 └── run_all.sh              # Optional unified runner
 ```
 
-## 📸 Dashboard Preview
-
-![Funnel Summary Dashboard](visuals/dashboard_screenshot.png)
-
-
 ---
 
 ## 🔄 End-to-End Pipeline
@@ -146,6 +141,24 @@ streamlit run dashboard/app.py
 ## 📚 Dataset
 
 Synthetic user events generated in `producer.py`. You can customize frequency, user/product IDs, and event types.
+
+---
+
+
+---
+
+## 📷 Project Visuals
+
+### 🔹 Streamlit Dashboard
+![Dashboard](Visuals/dashboard_screenshot.png)
+
+### 🔹 Churn Prediction & Trends
+![Churn](Visuals/DB_Visuals/Churn_Preduction.png)
+![Chunk Trends](Visuals/Chunk_Trends.png)
+
+### 🔹 API and Docker
+![API](Visuals/API.png)
+![Docker](Visuals/Docker_Images.png)
 
 ---
 
