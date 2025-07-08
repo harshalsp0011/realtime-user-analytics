@@ -32,6 +32,11 @@ realtime-user-analytics/
 └── run_all.sh              # Optional unified runner
 ```
 
+## 📸 Dashboard Preview
+
+![Funnel Summary Dashboard](visuals/dashboard_screenshot.png)
+
+
 ---
 
 ## 🔄 End-to-End Pipeline
