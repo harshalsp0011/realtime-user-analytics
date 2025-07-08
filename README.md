@@ -163,7 +163,7 @@ Synthetic user events generated in `producer.py`. You can customize frequency, u
 
 ## 🎬 Demo
 
-[▶️ Watch Streamlit in Action](Visuals/Streamlit%20Functionality.mp4)
+[▶️ Watch Streamlit in Action](https://img.youtube.com/vi/g3xRtWLd6A4/0.jpg)](https://youtu.be/g3xRtWLd6A4?si=PfZONBo3OydkV6PQ)
 
 ---
 
