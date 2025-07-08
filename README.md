@@ -148,6 +148,6 @@ Synthetic user events generated in `producer.py`. You can customize frequency, u
 
 **Harshal Patil**
 MS in Data Science, University at Buffalo
-[LinkedIn](https://www.linkedin.com/in/aishvaryasalvi)
+[LinkedIn](https://www.linkedin.com/in/harshalsp0011/)
 
 
