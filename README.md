@@ -160,6 +160,11 @@ Synthetic user events generated in `producer.py`. You can customize frequency, u
 ![API](Visuals/API.png)
 ![Docker](Visuals/Docker_Images.png)
 
+
+## 🎬 Demo
+
+[▶️ Watch Streamlit in Action](Visuals/Streamlit%20Functionality.mp4)
+
 ---
 
 ## 👨‍💻 Author
